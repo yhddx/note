@@ -1,0 +1,25 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+.userLogin{
+  float: right;
+  right: 100px;
+  margin-top:30px;
+  margin-bottom:0px;
+}
+.searchBar{
+  margin-top:30px;
+  margin-bottom:0px;
+  margin-left:850px;
+}
+.login-form {
+  max-width: 300px;
+}
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+}
